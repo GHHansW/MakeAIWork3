@@ -1,0 +1,2 @@
+Image Resize,Epochs,Train Accuracy,Test Accuracy
+224x224,16,100.0,56.896551724137936
